@@ -8,7 +8,7 @@ Reproducibility repository for the manuscript:
 
 GeoFriedmann is a reduced-order computational framework for comparing segmented two-dimensional pore structures using geometric, topological, percolation, anisotropy, and shortest-path descriptors.
 
-This repository contains the three structures analyzed in the manuscript and the Python scripts used to generate Figures 1–7.
+This repository contains the three structures analyzed in the manuscript and the Python scripts used to generate Figures 1–6.
 
 The GeoFriedmann coordinates and screening scores are image-derived, reference-set-dependent descriptors. They should not be interpreted as physical evolution laws, absolute permeability estimates, or predictions of reservoir productivity.
 
@@ -21,7 +21,6 @@ The GeoFriedmann coordinates and screening scores are image-derived, reference-s
 - `figure4/`: Python script used to generate Figure 4.
 - `figure5/`: Python script used to generate Figure 5.
 - `figure6/`: Python script used to generate Figure 6.
-- `figure7/`: Python script used to generate Figure 7.
 - `requirements.txt`: Python dependencies used to reproduce the results.
 
 ## Installation
